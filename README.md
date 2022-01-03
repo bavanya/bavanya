@@ -7,7 +7,7 @@ bavanya/bavanya is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-Some Important Concepts:
+Some Important Concepts ([My notes present here](https://github.com/bavanya/Ideas_and_general_notes/blob/main/General_Notes.pdf)):
 1. [Maximum Likelihood Estimation](https://towardsdatascience.com/probability-concepts-explained-maximum-likelihood-estimation-c7b4342fdbb1)
 2. [Bayesian inference for parameter estimation](https://towardsdatascience.com/probability-concepts-explained-bayesian-inference-for-parameter-estimation-90e8930e5348)
 3. Density Estimation
@@ -15,3 +15,4 @@ Some Important Concepts:
 5. Different types of data and different statistical distributions.
 6. [Probabilistic Graphical Models](https://blog.katastros.com/a?ID=00750-b8a98828-73d9-4a52-9d19-24ea16feb33b)
 7. [Operations Research](https://towardsdatascience.com/what-is-operations-research-1541fb6f4963)
+8. 
