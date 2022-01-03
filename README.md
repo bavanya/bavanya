@@ -16,3 +16,5 @@ Some Important Concepts ([My notes present here](https://github.com/bavanya/Idea
 6. [Probabilistic Graphical Models](https://blog.katastros.com/a?ID=00750-b8a98828-73d9-4a52-9d19-24ea16feb33b)
 7. [Operations Research](https://towardsdatascience.com/what-is-operations-research-1541fb6f4963)
 8. [Bayesian Statistics](https://statswithr.github.io/book/the-basics-of-bayesian-statistics.html)
+9. Monte Carlo methods ([Computational Physics](http://compphysics.github.io/ComputationalPhysics/doc/pub/mcint/html/mcint.html)) and [Monte Carlo Markov Chain methods](https://arxiv.org/pdf/1909.12313.pdf).
+10. Quantifying uncertainity in statistical, machine learning and deep learning models.
