@@ -10,3 +10,6 @@ You can click the Preview link to take a look at your changes.
 Important Concepts I came across:
 1. [Maximum Likelihood Estimation](https://towardsdatascience.com/probability-concepts-explained-maximum-likelihood-estimation-c7b4342fdbb1)
 2. [Bayesian inference for parameter estimation](https://towardsdatascience.com/probability-concepts-explained-bayesian-inference-for-parameter-estimation-90e8930e5348)
+3. Density Estimation
+4. Active Learning, Sequential Learning and Parametric Unsupervised Learning.
+6. Different types of data and different statistical distributions.
