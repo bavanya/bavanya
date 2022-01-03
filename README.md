@@ -14,3 +14,4 @@ Some Important Concepts:
 4. Active Learning, Sequential Learning and Parametric Unsupervised Learning.
 6. Different types of data and different statistical distributions.
 7. [Probabilistic Graphical Models](https://blog.katastros.com/a?ID=00750-b8a98828-73d9-4a52-9d19-24ea16feb33b)
+8. [Operations Research](https://towardsdatascience.com/what-is-operations-research-1541fb6f4963)
