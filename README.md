@@ -12,7 +12,7 @@ Some Important Concepts ([My notes present here](https://github.com/bavanya/Idea
 2. [Bayesian inference for parameter estimation](https://towardsdatascience.com/probability-concepts-explained-bayesian-inference-for-parameter-estimation-90e8930e5348)
 3. [Density Estimation](https://ned.ipac.caltech.edu/level5/March02/Silverman/Silver1.html)
 4. Active Learning, Sequential Learning and Parametric Unsupervised Learning.
-5. Different types of data and different statistical distributions.
+5. Different types of data and [different statistical distributions](http://people.stern.nyu.edu/adamodar/New_Home_Page/StatFile/statdistns.htm).
 6. [Probabilistic Graphical Models](https://blog.katastros.com/a?ID=00750-b8a98828-73d9-4a52-9d19-24ea16feb33b)
 7. [Operations Research](https://towardsdatascience.com/what-is-operations-research-1541fb6f4963)
 8. 
