@@ -7,6 +7,32 @@ bavanya/bavanya is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
+Areas of Interest:
+1. Visual and graph predictive analytics.
+2. Probabilistic deep learning.
+3. Spatio-temporal and graph analysis and mining.
+4. Predictive modelling.
+5. Statistical machine learning.
+6. Parallel graph analytics.
+7. Graph deep learning.
+
+More Precisely:
+1. Designing methodologies for Spatio-temporal visual analysis.
+2. Graphical models, especially for Spatio-temporal data.
+3. Designing computational models.
+4. Quantifying confidence and uncertainity (eg: using Bayesian inference methods, especially for time series data) in predictions.
+5. Desiging deep probabilistic models and inference algorithms.
+6. Probabilistic graphical models.
+7. Spatio-temporal forecasting and mining, data-driven and knowledge-guided.
+8. Designing methodologies for graph analysis and mining, especially dynamic and Spatio-temporal graphs.
+9. Statistical and probabilistic methods for Spatio-temporal data.
+10. Domain adaptive and few-shot attention-based models for forecasting problems.
+11. GIS
+12. Mapping and Spatial Analysis techniques.
+13. Using Gunrock library on Spatio-temporal graphs.
+14. GNNs.
+
+
 Some Important Concepts ([My notes present here](https://github.com/bavanya/Ideas_and_general_notes/blob/main/General_Notes.pdf)):
 1. [Maximum Likelihood Estimation](https://towardsdatascience.com/probability-concepts-explained-maximum-likelihood-estimation-c7b4342fdbb1)
 2. [Bayesian inference for parameter estimation](https://towardsdatascience.com/probability-concepts-explained-bayesian-inference-for-parameter-estimation-90e8930e5348)
