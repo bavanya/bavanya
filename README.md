@@ -53,3 +53,4 @@ You can click the Preview link to take a look at your changes.
 17. Spine-based models.
 18. Adding penalties to models, eg: elastic net, lasso, lars.
 19. Stochastic process.
+20. Functional programming and Logical programming.
