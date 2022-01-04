@@ -55,3 +55,4 @@ You can click the Preview link to take a look at your changes.
 19. Stochastic process.
 20. Functional programming and Logical programming.
 21. Convex optimization.
+22. [Statistical inference](https://nptel.ac.in/courses/111/105/111105043/)
