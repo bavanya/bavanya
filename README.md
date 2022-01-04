@@ -41,6 +41,15 @@ You can click the Preview link to take a look at your changes.
 5. Different types of data and [different statistical distributions](http://people.stern.nyu.edu/adamodar/New_Home_Page/StatFile/statdistns.htm).
 6. [Probabilistic Graphical Models](https://blog.katastros.com/a?ID=00750-b8a98828-73d9-4a52-9d19-24ea16feb33b)
 7. [Operations Research](https://towardsdatascience.com/what-is-operations-research-1541fb6f4963)
-8. [Bayesian Statistics](https://statswithr.github.io/book/the-basics-of-bayesian-statistics.html)
+8. [Bayesian Statistics](https://statswithr.github.io/book/the-basics-of-bayesian-statistics.html), Bayesian networks.
 9. Monte Carlo methods ([Computational Physics](http://compphysics.github.io/ComputationalPhysics/doc/pub/mcint/html/mcint.html)) and [Monte Carlo Markov Chain methods](https://arxiv.org/pdf/1909.12313.pdf).
 10. Quantifying uncertainity in statistical, machine learning and deep learning models.
+11. Optimization algorithms.
+12. Topological data analysis.
+13. Missing data imputation methods.
+14. Mixture modelling.
+15. Survival analysis.
+16. Markov chains and stochastic processes.
+17. Spine-based models.
+18. Adding penalties to models, eg: elastic net, lasso, lars.
+19. 
