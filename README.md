@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 14. GNNs.
 
 
-**Some Important Concepts ([My notes present here](https://github.com/bavanya/Ideas_and_general_notes/blob/main/General_Notes.pdf)):**
+**Some INteresting Concepts ([My notes present here](https://github.com/bavanya/Ideas_and_general_notes/blob/main/General_Notes.pdf)):**
 1. [Maximum Likelihood Estimation](https://towardsdatascience.com/probability-concepts-explained-maximum-likelihood-estimation-c7b4342fdbb1)
 2. [Bayesian inference for parameter estimation](https://towardsdatascience.com/probability-concepts-explained-bayesian-inference-for-parameter-estimation-90e8930e5348)
 3. [Density Estimation](https://ned.ipac.caltech.edu/level5/March02/Silverman/Silver1.html)
@@ -56,3 +56,4 @@ You can click the Preview link to take a look at your changes.
 20. Functional programming and Logical programming.
 21. Convex optimization.
 22. [Statistical inference](https://nptel.ac.in/courses/111/105/111105043/)
+23. Practical applications of non-parametric statistics.
