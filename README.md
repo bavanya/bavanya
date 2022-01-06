@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 14. GNNs.
 15. Sampling algorithms.
 
-**Some INteresting Concepts ([My notes present here](https://github.com/bavanya/Ideas_and_general_notes/blob/main/General_Notes.pdf)):**
+**Some Interesting Concepts ([My notes present here](https://github.com/bavanya/Ideas_and_general_notes/blob/main/General_Notes.pdf)):**
 1. [Maximum Likelihood Estimation](https://towardsdatascience.com/probability-concepts-explained-maximum-likelihood-estimation-c7b4342fdbb1)
 2. [Bayesian inference for parameter estimation](https://towardsdatascience.com/probability-concepts-explained-bayesian-inference-for-parameter-estimation-90e8930e5348)
 3. [Density Estimation](https://ned.ipac.caltech.edu/level5/March02/Silverman/Silver1.html)
@@ -62,3 +62,6 @@ You can click the Preview link to take a look at your changes.
 26. [Confidence interval vs prediction interval vs tolerance interval](https://statisticsbyjim.com/hypothesis-testing/confidence-prediction-tolerance-intervals/).
 27. [Predicting probability distributions using neural networks](https://towardsdatascience.com/predicting-probability-distributions-using-neural-networks-abef7db10eac)
 28. [Bayesian neural network](http://edwardlib.org/tutorials/bayesian-neural-network)
+
+**Cool libraries that I found:**
+1. [Edward](http://edwardlib.org/tutorials/bayesian-neural-network) 
