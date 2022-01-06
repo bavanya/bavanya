@@ -59,3 +59,4 @@ You can click the Preview link to take a look at your changes.
 23. Practical applications of non-parametric statistics.
 24. Frequentist approach to statistics.
 25. Class imbalance problem.
+26. [Confidence interval vs prediction interval vs tolerance interval](https://statisticsbyjim.com/hypothesis-testing/confidence-prediction-tolerance-intervals/).
