@@ -58,3 +58,4 @@ You can click the Preview link to take a look at your changes.
 22. [Statistical inference](https://nptel.ac.in/courses/111/105/111105043/)
 23. Practical applications of non-parametric statistics.
 24. Frequentist approach to statistics.
+25. Class imbalance problem.
