@@ -61,7 +61,7 @@ You can click the Preview link to take a look at your changes.
 25. Class imbalance problem.
 26. [Confidence interval vs prediction interval vs tolerance interval](https://statisticsbyjim.com/hypothesis-testing/confidence-prediction-tolerance-intervals/).
 27. [Predicting probability distributions using neural networks](https://towardsdatascience.com/predicting-probability-distributions-using-neural-networks-abef7db10eac)
-28. [Bayesian neural network](http://edwardlib.org/tutorials/bayesian-neural-network)
+28. [Bayesian neural network](http://edwardlib.org/tutorials/bayesian-neural-network), mixed density network.
 
 **Cool libraries that I found:**
 1. [Edward](http://edwardlib.org/tutorials/bayesian-neural-network) 
