@@ -66,4 +66,4 @@ You can click the Preview link to take a look at your changes.
 **Cool libraries that I found:**
 1. [Edward](http://edwardlib.org/tutorials/bayesian-neural-network) 
 
-**[Series on the Deep Learning Book by Ian Goodfellow by Hadrien Jean](https://www.kdnuggets.com/2019/05/probability-mass-density-functions.html)**
+**[Series by Hadrien Jean on the Deep Learning Book by Ian Goodfellow](https://www.kdnuggets.com/2019/05/probability-mass-density-functions.html)**
