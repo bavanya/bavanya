@@ -67,6 +67,7 @@ You can click the Preview link to take a look at your changes.
 31. Contrastive learning and restricted boltzmann machines.
 32. Representation learning.
 33. Generative models.
+34. Energy based models, deep belief networks, factor graphs.
 
 **Cool libraries that I found:**
 1. [Edward](http://edwardlib.org/tutorials/bayesian-neural-network) 
