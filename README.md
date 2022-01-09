@@ -69,6 +69,7 @@ You can click the Preview link to take a look at your changes.
 33. Generative models.
 34. Energy based models, deep belief networks, factor graphs.
 35. [Gaussian process](https://towardsdatascience.com/understanding-gaussian-process-the-socratic-way-ba02369d804).
+36. Euclidean and Non-Euclidean domains.
 
 **Some papers I found interesting**
 1. [Deep Convolutional Networks on Graph-Structured Data](https://arxiv.org/abs/1506.05163)
