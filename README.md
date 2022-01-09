@@ -46,7 +46,7 @@ You can click the Preview link to take a look at your changes.
 10. Quantifying uncertainity in statistical, machine learning and deep learning models and obtaining prediction intervals.
 11. Optimization algorithms.
 12. Topological data analysis.
-13. Missing data imputation methods.
+13. Missing data imputation methods, especially for temporal data.
 14. Mixture modelling.
 15. Survival analysis.
 16. Markov chains and stochastic processes.
