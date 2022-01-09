@@ -64,6 +64,7 @@ You can click the Preview link to take a look at your changes.
 28. [Bayesian neural network](http://edwardlib.org/tutorials/bayesian-neural-network), mixed density network.
 29. Hypothesis testing.
 30. Few-shot learning.
+31. Contrastive learning and restricted boltzmann machines.
 
 **Cool libraries that I found:**
 1. [Edward](http://edwardlib.org/tutorials/bayesian-neural-network) 
