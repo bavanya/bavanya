@@ -65,6 +65,8 @@ You can click the Preview link to take a look at your changes.
 29. Hypothesis testing.
 30. Few-shot learning.
 31. Contrastive learning and restricted boltzmann machines.
+32. Representation learning.
+33. Generative models.
 
 **Cool libraries that I found:**
 1. [Edward](http://edwardlib.org/tutorials/bayesian-neural-network) 
