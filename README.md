@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 4. Predictive modelling.
 5. Statistical machine learning.
 6. Parallel graph analytics.
-7. Graph deep learning.
+7. [Graph deep learning](https://towardsdatascience.com/graph-deep-learning/home).
 
 **More Precisely:**
 1. Designing methodologies for Spatio-temporal visual analysis.
