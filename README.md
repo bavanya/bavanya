@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 5. Designing deep probabilistic models and inference algorithms.
 6. Probabilistic graphical models.
 7. Spatio-temporal forecasting and mining, data-driven and knowledge-guided.
-8. Designing methodologies for graph analysis and mining, especially dynamic and Spatio-temporal graphs.
+8. Designing methodologies for graph analysis and mining, especially [dynamic](https://blog.twitter.com/engineering/en_us/topics/insights/2021/temporal-graph-networks) and Spatio-temporal graphs.
 9. Statistical and probabilistic methods for Spatio-temporal data.
 10. Domain adaptive and few-shot attention-based models for forecasting problems.
 11. GIS
