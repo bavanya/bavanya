@@ -64,14 +64,13 @@ You can click the Preview link to take a look at your changes.
 28. [Bayesian neural network](http://edwardlib.org/tutorials/bayesian-neural-network), mixed density network.
 29. Hypothesis testing.
 30. Few-shot learning.
-31. Contrastive learning and restricted boltzmann machines.
+31. [Self-supervised learning](https://towardsdatascience.com/self-supervised-learning-methods-for-computer-vision-c25ec10a91bd), Contrastive learning and restricted boltzmann machines.
 32. Representation learning.
 33. Generative models.
 34. Energy based models, deep belief networks, factor graphs.
 35. [Gaussian process](https://towardsdatascience.com/understanding-gaussian-process-the-socratic-way-ba02369d804).
 36. Euclidean and Non-Euclidean domains.
 37. Graph representation learning.
-38. [Self-supervised learning](https://towardsdatascience.com/self-supervised-learning-methods-for-computer-vision-c25ec10a91bd).
 
 **Some papers I found interesting**
 1. [Deep Convolutional Networks on Graph-Structured Data](https://arxiv.org/abs/1506.05163)
