@@ -63,7 +63,7 @@ You can click the Preview link to take a look at your changes.
 27. [Predicting probability distributions using neural networks](https://towardsdatascience.com/predicting-probability-distributions-using-neural-networks-abef7db10eac)
 28. [Bayesian neural network](http://edwardlib.org/tutorials/bayesian-neural-network), mixed density network.
 29. Hypothesis testing.
-30. Few-shot learning.
+30. [Few-shot learning](https://neptune.ai/blog/understanding-few-shot-learning-in-computer-vision).
 31. [Self-supervised learning](https://towardsdatascience.com/self-supervised-learning-methods-for-computer-vision-c25ec10a91bd), Contrastive learning and restricted boltzmann machines.
 32. Representation learning.
 33. Generative models.
