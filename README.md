@@ -68,7 +68,7 @@ You can click the Preview link to take a look at your changes.
 32. Representation learning.
 33. Generative models.
 34. Energy based models, deep belief networks, factor graphs.
-35. [Gaussian process](https://towardsdatascience.com/understanding-gaussian-process-the-socratic-way-ba02369d804).
+35. [Gaussian process](https://towardsdatascience.com/understanding-gaussian-process-the-socratic-way-ba02369d804), [another post](https://towardsdatascience.com/an-intuitive-guide-to-gaussian-processes-ec2f0b45c71d).
 36. Euclidean and Non-Euclidean domains.
 37. Graph representation learning, Graph kernels, random-walk methods, Graph neural networks.
 38. [Adversial machine learning](https://viso.ai/deep-learning/adversarial-machine-learning/), Deep Reinforcement Learning.
