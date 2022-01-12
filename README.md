@@ -70,7 +70,7 @@ You can click the Preview link to take a look at your changes.
 34. Energy based models, deep belief networks, factor graphs.
 35. [Gaussian process](https://towardsdatascience.com/understanding-gaussian-process-the-socratic-way-ba02369d804).
 36. Euclidean and Non-Euclidean domains.
-37. Graph representation learning.
+37. Graph representation learning, Graph kernels, random-walk methods, Graph neural networks.
 38. [Adversial machine learning](https://viso.ai/deep-learning/adversarial-machine-learning/), Deep Reinforcement Learning.
 
 **Some papers I found interesting**
