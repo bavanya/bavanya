@@ -67,7 +67,7 @@ You can click the Preview link to take a look at your changes.
 31. [Self-supervised learning](https://towardsdatascience.com/self-supervised-learning-methods-for-computer-vision-c25ec10a91bd), Contrastive learning and restricted boltzmann machines.
 32. Representation learning.
 33. Generative models.
-34. Energy based models, deep belief networks, factor graphs.
+34. Energy based models, deep belief networks, factor graphs, radial basis function neural networks.
 35. [Gaussian process](https://towardsdatascience.com/understanding-gaussian-process-the-socratic-way-ba02369d804), [another post](https://towardsdatascience.com/an-intuitive-guide-to-gaussian-processes-ec2f0b45c71d).
 36. Euclidean and Non-Euclidean domains.
 37. Graph representation learning, Graph kernels, random-walk methods, Graph neural networks.
