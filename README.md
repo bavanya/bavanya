@@ -39,7 +39,7 @@ You can click the Preview link to take a look at your changes.
 3. [Density Estimation](https://ned.ipac.caltech.edu/level5/March02/Silverman/Silver1.html)
 4. Active Learning, Sequential Learning and Parametric Unsupervised Learning.
 5. Different types of data and [different statistical distributions](http://people.stern.nyu.edu/adamodar/New_Home_Page/StatFile/statdistns.htm).
-6. [Probabilistic Graphical Models](https://blog.katastros.com/a?ID=00750-b8a98828-73d9-4a52-9d19-24ea16feb33b)
+6. [Probabilistic and Deterministic Graphical Models](https://www.ics.uci.edu/~dechter/courses/ics-276/spring-19/), [Probabilistic Graphical Models](https://blog.katastros.com/a?ID=00750-b8a98828-73d9-4a52-9d19-24ea16feb33b)
 7. [Operations Research](https://towardsdatascience.com/what-is-operations-research-1541fb6f4963)
 8. [Bayesian Statistics](https://statswithr.github.io/book/the-basics-of-bayesian-statistics.html), Bayesian networks.
 9. Monte Carlo methods ([Computational Physics](http://compphysics.github.io/ComputationalPhysics/doc/pub/mcint/html/mcint.html)), [Hidden Markov Model](https://web.stanford.edu/~jurafsky/slp3/A.pdf) and [Monte Carlo Markov Chain methods](https://arxiv.org/pdf/1909.12313.pdf).
