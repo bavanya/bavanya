@@ -72,7 +72,7 @@ You can click the Preview link to take a look at your changes.
 36. Euclidean and Non-Euclidean domains.
 37. Graph representation learning, Graph kernels, random-walk methods, Graph neural networks.
 38. [Adversial machine learning](https://viso.ai/deep-learning/adversarial-machine-learning/), Deep Reinforcement Learning.
-39. [Kernel in statistics](https://en.wikipedia.org/wiki/Kernel_(statistics)#Kernel_functions_in_common_use).
+39. [Kernel in statistics](https://en.wikipedia.org/wiki/Kernel_(statistics)#Kernel_functions_in_common_use), kernel density estimation, kernel regression, multivariate kernel density estimation.
 40. Multi dimensional scaling, non-linear dimensionality reduction.
 
 **Some papers I found interesting**
