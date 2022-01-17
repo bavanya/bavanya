@@ -73,6 +73,7 @@ You can click the Preview link to take a look at your changes.
 37. Graph representation learning, Graph kernels, random-walk methods, Graph neural networks.
 38. [Adversial machine learning](https://viso.ai/deep-learning/adversarial-machine-learning/), Deep Reinforcement Learning.
 39. [Kernel in statistics](https://en.wikipedia.org/wiki/Kernel_(statistics)#Kernel_functions_in_common_use).
+40. Multi dimensional scaling, non-linear dimensionality reduction.
 
 **Some papers I found interesting**
 1. [Deep Convolutional Networks on Graph-Structured Data](https://arxiv.org/abs/1506.05163)
