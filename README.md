@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
 12. Mapping and Spatial Analysis techniques.
 13. Using Gunrock library on Spatio-temporal graphs.
 14. GNNs.
-15. Sampling algorithms.
+15. [Sampling algorithms](https://towardsdatascience.com/8-types-of-sampling-techniques-b21adcdd2124).
 
 **Some Interesting Concepts ([My notes present here](https://github.com/bavanya/My_Ideas_and_Notes/blob/main/statistics_probability_machine-learning.pdf)):**
 1. [Maximum Likelihood Estimation](https://towardsdatascience.com/probability-concepts-explained-maximum-likelihood-estimation-c7b4342fdbb1)
