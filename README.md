@@ -82,3 +82,7 @@ You can click the Preview link to take a look at your changes.
 1. [Edward](http://edwardlib.org/tutorials/bayesian-neural-network) 
 
 **[Series by Hadrien Jean on the Deep Learning Book by Ian Goodfellow](https://www.kdnuggets.com/2019/05/probability-mass-density-functions.html)**
+
+**Interesting posts I found**
+1. https://medium.com/mlearning-ai/monte-carlo-simulation-in-machine-learning-using-rbf-sampler-fdf9d35b3c18
+
