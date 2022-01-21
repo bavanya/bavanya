@@ -42,7 +42,7 @@ You can click the Preview link to take a look at your changes.
 6. [Probabilistic and Deterministic Graphical Models](https://www.ics.uci.edu/~dechter/courses/ics-276/spring-19/), [Probabilistic Graphical Models](https://blog.katastros.com/a?ID=00750-b8a98828-73d9-4a52-9d19-24ea16feb33b)
 7. [Operations Research](https://towardsdatascience.com/what-is-operations-research-1541fb6f4963)
 8. [Bayesian Statistics](https://statswithr.github.io/book/the-basics-of-bayesian-statistics.html), Bayesian networks.
-9. Monte Carlo methods ([Computational Physics](http://compphysics.github.io/ComputationalPhysics/doc/pub/mcint/html/mcint.html)), [Hidden Markov Model](https://web.stanford.edu/~jurafsky/slp3/A.pdf) and [Monte Carlo Markov Chain methods](https://arxiv.org/pdf/1909.12313.pdf).
+9. Monte Carlo methods ([Computational Physics](http://compphysics.github.io/ComputationalPhysics/doc/pub/mcint/html/mcint.html)), [Hidden Markov Model](https://web.stanford.edu/~jurafsky/slp3/A.pdf), [Monte Carlo sampling](https://www.ias.ac.in/article/fulltext/reso/019/08/0713-0739) and [Monte Carlo Markov Chain methods](https://arxiv.org/pdf/1909.12313.pdf).
 10. Quantifying uncertainity in statistical, machine learning and deep learning models and obtaining prediction intervals.
 11. Optimization algorithms.
 12. Topological data analysis.
