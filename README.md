@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 **Areas of Interest:**
 1. Visual and graph predictive analytics.
-2. Probabilistic deep learning.
+2. Probabilistic machine learning and Bayesian deep learning.
 3. Spatio-temporal and graph analysis and mining.
 4. Predictive modelling.
 5. Statistical machine learning.
