@@ -74,6 +74,7 @@ You can click the Preview link to take a look at your changes.
 38. [Adversial machine learning](https://viso.ai/deep-learning/adversarial-machine-learning/), Deep Reinforcement Learning.
 39. [Kernel in statistics](https://en.wikipedia.org/wiki/Kernel_(statistics)#Kernel_functions_in_common_use), kernel density estimation, kernel regression, multivariate kernel density estimation.
 40. Multi dimensional scaling, [non-linear dimensionality reduction](https://towardsdatascience.com/11-dimensionality-reduction-techniques-you-should-know-in-2021-dcb9500d388b).
+41. [Bayesian graph neural networks](https://ieeexplore.ieee.org/document/9555949).
 
 **Some papers I found interesting**
 1. [Deep Convolutional Networks on Graph-Structured Data](https://arxiv.org/abs/1506.05163)
