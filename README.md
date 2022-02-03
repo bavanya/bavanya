@@ -15,3 +15,5 @@ You can click the Preview link to take a look at your changes.
 5. Statistical machine learning.
 6. Parallel graph analytics.
 7. [Graph deep learning](https://towardsdatascience.com/graph-deep-learning/home).
+
+**My interests are discussed in detail at my [github page](https://bavanya.github.io/) along with links to few interesting concepts**
