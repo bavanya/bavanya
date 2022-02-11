@@ -16,4 +16,4 @@ You can click the Preview link to take a look at your changes.
 6. Parallel graph analytics.
 7. [Graph deep learning](https://towardsdatascience.com/graph-deep-learning/home).
 
-**My interests are discussed in detail at my [github page](https://bavanya.github.io/) along with links to few interesting concepts**
+**Please visit my [github page](https://bavanya.github.io/) to learn more about me, my interests and few intersting concepts in Statistics, Probability and ML.**
